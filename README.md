@@ -27,11 +27,10 @@ pip install -r requirements.txt
 
 ## Usage
 ```
-pythonCopypython train_model.py
-python evaluate_model.py
-python visualize_results.py
-Model Architecture
+python Pytorch_LSTM_transformer.ipynb
 ```
+
+## Model Architecture
 
 LSTM Model: Multi-layer LSTM with dropout for sequence modeling
 Transformer Model: Custom implementation with positional encoding and multi-head attention
