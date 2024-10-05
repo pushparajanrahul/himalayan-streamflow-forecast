@@ -20,8 +20,8 @@ The project uses data from various sources including:
 
 ## Installation
 ```
-bashCopygit clone https://github.com/your-username/himalayan-weather-prediction.git
-cd himalayan-weather-prediction
+bashCopygit clone https://github.com/pushparajanrahul/himalayan-streamflow-forecast.git
+cd himalayan-streamflow-forecast
 pip install -r requirements.txt
 ```
 
