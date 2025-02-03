@@ -20,7 +20,7 @@ The project uses data from various sources including:
 
 ## Installation
 ```
-bashCopygit clone https://github.com/pushparajanrahul/himalayan-streamflow-forecast.git
+git clone https://github.com/pushparajanrahul/himalayan-streamflow-forecast.git
 cd himalayan-streamflow-forecast
 pip install -r requirements.txt
 ```
